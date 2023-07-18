@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Build artifacts
+.vs/protoc-gen-proto/v16
+Debug/
+Win32/
